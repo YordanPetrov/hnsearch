@@ -8,6 +8,8 @@ Lately, I find myself using the Search tool of [Hacker News](http://news.ycombin
 
 Browse the [thread](http://google.com/) on HN.
 
+Kudos to [Zachary Voase](http://zacharyvoase.com/).
+
 Usage
 -----
 1. download the hnsearch archive

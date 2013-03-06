@@ -15,4 +15,6 @@ Usage
 1. download the hnsearch archive
 2. extract and run the .wflow file
 
+Screenshot
+----------
 ![Screenshot](images/screenshot.png "Screenshot")
